@@ -1,5 +1,5 @@
 homepage: "https://sportradar.com"
-documentation: "https://raw.githubusercontent.com/ads-marketing-cloud/ct-sportradar-bet-placed-event"
+documentation: "https://github.com/ads-marketing-cloud/ct-sportradar-tag-manager/blob/main/TagManagerDocumentation.pdf"
 versions:
  # Latest version
  - sha: 35adf3aa3c483830123a5a7af1bc9add9d282d03
